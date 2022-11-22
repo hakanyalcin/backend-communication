@@ -4,3 +4,5 @@ short-polling/node_modules/
 short-polling/package-lock.json
 long-polling/node_modules/
 long-polling/package-lock.json
+server-sent-events/node_modules/
+server-sent-events/package-lock.json
