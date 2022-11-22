@@ -2,3 +2,5 @@ websocket/node_modules/
 websocket/package-lock.json
 short-polling/node_modules/
 short-polling/package-lock.json
+long-polling/node_modules/
+long-polling/package-lock.json
